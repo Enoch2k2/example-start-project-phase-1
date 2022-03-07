@@ -26,6 +26,3 @@
   * A user can search their recipes (submit)
   * A user can like a recipe (click)
   * A user can comment on a recipe (submit)
-
-
-jfkdsa;jf;ldsjfkl;jadlk;djsal;kjfads;l
