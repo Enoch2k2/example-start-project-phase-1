@@ -12,6 +12,7 @@ This will be the overview for your project. You will detail what your project is
 ### Contributing
 You can contribute by emailing test@test.com.
 Fork and clone - make a PR
+We made a contributing edit
 
 ### Licensing
 MIT license
